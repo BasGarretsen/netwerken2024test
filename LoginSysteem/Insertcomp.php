@@ -3,9 +3,9 @@
 session_start();
 
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "pcbuilder";
+$username = "net24bgarretsen_Bas";
+$password = "FMi)!&r.{KUd";
+$dbname = "net24bgarretsen_pcbuilder";
 
 //connectie  maken
 $conn = new mysqli($servername, $username, $password, $dbname);
